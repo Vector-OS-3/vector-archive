@@ -12,7 +12,7 @@ Recovery Status: Partial
 
 **Directory Purpose**
 
-> [DESCRIÇÃO DA PASTA]
+> [attachments/attachments.zip]
 
 ---
 
