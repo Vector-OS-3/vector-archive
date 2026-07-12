@@ -55,3 +55,19 @@ SYSTEM MESSAGE
 
 Further recovery attempts will continue
 as additional storage sectors become readable.
+
+----------------------------------------
+
+LOG RESTORATION REPORT
+
+Recovered Messages:
+0
+
+Recovered Attachments:
+6
+
+Recovered Videos:
+3
+
+Conversation reconstruction:
+FAILED
